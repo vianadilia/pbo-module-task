@@ -1,0 +1,14 @@
+D:\PBO\1051_Nadilia Dwi Oktavia\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia.exe
+D:\PBO\1051_Nadilia Dwi Oktavia\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia.deps.json
+D:\PBO\1051_Nadilia Dwi Oktavia\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia.runtimeconfig.json
+D:\PBO\1051_Nadilia Dwi Oktavia\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia.dll
+D:\PBO\1051_Nadilia Dwi Oktavia\bin\Debug\net6.0\1051_Nadilia Dwi Oktavia.pdb
+D:\PBO\1051_Nadilia Dwi Oktavia\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBO\1051_Nadilia Dwi Oktavia\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia.AssemblyInfoInputs.cache
+D:\PBO\1051_Nadilia Dwi Oktavia\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia.AssemblyInfo.cs
+D:\PBO\1051_Nadilia Dwi Oktavia\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia.csproj.CoreCompileInputs.cache
+D:\PBO\1051_Nadilia Dwi Oktavia\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia.dll
+D:\PBO\1051_Nadilia Dwi Oktavia\obj\Debug\net6.0\refint\1051_Nadilia Dwi Oktavia.dll
+D:\PBO\1051_Nadilia Dwi Oktavia\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia.pdb
+D:\PBO\1051_Nadilia Dwi Oktavia\obj\Debug\net6.0\1051_Nadilia Dwi Oktavia.genruntimeconfig.cache
+D:\PBO\1051_Nadilia Dwi Oktavia\obj\Debug\net6.0\ref\1051_Nadilia Dwi Oktavia.dll
